@@ -1,8 +1,18 @@
 # ToolsSite
 Simple Flask store which contains some usefull tools.
 
-
-Run
+How to Flask 
+---
+    Windows
+    
+        python3 -m venv venv
+        
+        venv\Scripts\activate.bat
+        
+        pip install -r requirements.txt
+       
+       
+How To Run
 ---
 
 ::
